@@ -1,4 +1,4 @@
-# step-form
+# hype-step-form
 
 > Basic component for step form
 
